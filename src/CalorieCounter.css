@@ -4,7 +4,7 @@ body {
 }
 .calorie-counter {
   font-family: Arial, sans-serif;
-  max-width: 800px;
+  max-width: 500px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -105,19 +105,24 @@ body {
   margin-right: 15px; /* Adjust the margin as needed */
 }
 
-/* New color palette */
-.color-palette-1 {
-  background-color: #E7BB50;
-}
 
-.color-palette-2 {
-  background-color: #F48E29;
-}
 
-.color-palette-3 {
-  background-color: #D5742D;
-}
 
-.color-palette-4 {
-  background-color: #EAC463;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
